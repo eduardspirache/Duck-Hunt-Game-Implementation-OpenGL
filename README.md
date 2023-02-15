@@ -3,7 +3,7 @@
 Developed a duck shooting game using OpenGL, featuring single-duck appearance and a three-shot limit per turn. Incorporated player lives and loss conditions.
 
 <p align="center">
-<img src="https://github.com/eduardspirache/Duck-Hunt-Game-Implementation-OpenGL/blob/main/game.gif">
+<img src="https://github.com/eduardspirache/Duck-Hunt-Game-Implementation-OpenGL/blob/main/gameplay.gif">
 </p>
 
 # How it Works
