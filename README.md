@@ -2,10 +2,6 @@
 
 Developed a duck shooting game using OpenGL, featuring single-duck appearance and a three-shot limit per turn. Incorporated player lives and loss conditions.
 
-<p align="center">
-<img src="https://github.com/eduardspirache/Duck-Hunt-Game-Implementation-OpenGL/blob/main/gameplay.gif">
-</p>
-
 # How it Works
 
 This is a project about creating a game similar to Duck Hunt. The player has to shoot ducks that appear on the screen. The ducks are constructed using 2D geometric primitives (at least four: body, wings, head, and beak). The ducks move in a random direction and at a random speed, and they change direction when they hit the edge of the screen. When a duck is shot, it falls to the ground with a vertical animation, and when it escapes, it flies off the screen with a vertical animation. Only one duck appears on the screen at a time, and a new duck appears after a certain time has passed since the last duck appeared. The player has to shoot as many ducks as possible within a limited time. The game uses hierarchical transformations to animate the ducks.
